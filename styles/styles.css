@@ -43,30 +43,24 @@ a:hover {
 	font-size: 2em;
 	margin-left: .25em;
 }
-.unsplash-home-page-intro {
-	background-color: #409aa9;
-	padding: 3em 0;
-	color: #ffffff;
-	margin-bottom: 2em;
-}
-.unsplash-navigation {
-	background-color: #409aa9;
+.navigation {
+	background-color: #1288E7;
 	padding-top: .5em;
 	padding-bottom: .5em;
 	margin: 0;
 	margin-bottom: 2em;
 }
-.unsplash-navigation .breadcrumb {
-	background-color: #409aa9;
+.navigation .breadcrumb {
+	background-color: #1288E7;
 	margin: 0;
 	color: #ffffff;
 }
-.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+.navigation .breadcrumb li, .navigation .breadcrumb a, .navigation .breadcrumb a:hover {
 	color: #ffffff;
 	text-decoration: none;
 }
-.unsplash-navigation .breadcrumb li.active {
-	color: #25333a;
+.navigation .breadcrumb li.active {
+	color: #DB50B5;
 	font-weight: 400;
 }
 .breadcrumb-item+.breadcrumb-item::before {
@@ -74,20 +68,4 @@ a:hover {
 }
 .modal h1 {
 	margin:0;
-}
-dt {
-	font-family: 'Wire One', sans-serif;
-	font-size: 1.75em;
-}
-
-dd {
-	margin: 0;
-	padding: 0;
-	line-height: 1.5em;
-	font-size: .8em;
-	font-weight: 100;
-}
-dd strong {
-	font-size: 2em;
-	font-weight: 100;
 }
