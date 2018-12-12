@@ -1,0 +1,93 @@
+body {
+	font-family: handlee;
+	font-style: normal;
+	font-weight: 400;
+}
+h1, h2, h3 {
+	font-family: handlee;
+	font-style: normal;
+	font-weight: 400;	
+}
+a {
+	color: #25333a;
+}
+a:hover {
+	color: #1288E7;
+	text-decoration: none;
+}
+.header {
+	background-color: #DB50B5;
+	color: #ffffff;
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+.header a {
+	color: #ffffff;
+	text-decoration: none;
+}
+.header a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.footer {
+	border-top: solid 5px #1288E7;
+	background-color: #DB50B5;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin: 0;
+	margin-top: 2em;
+	color: #ffffff;
+}
+.footer a {
+	color: #ffffff;
+	font-size: 2em;
+	margin-left: .25em;
+}
+.unsplash-home-page-intro {
+	background-color: #409aa9;
+	padding: 3em 0;
+	color: #ffffff;
+	margin-bottom: 2em;
+}
+.unsplash-navigation {
+	background-color: #409aa9;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	margin: 0;
+	margin-bottom: 2em;
+}
+.unsplash-navigation .breadcrumb {
+	background-color: #409aa9;
+	margin: 0;
+	color: #ffffff;
+}
+.unsplash-navigation .breadcrumb li, .unsplash-navigation .breadcrumb a, .unsplash-navigation .breadcrumb a:hover {
+	color: #ffffff;
+	text-decoration: none;
+}
+.unsplash-navigation .breadcrumb li.active {
+	color: #25333a;
+	font-weight: 400;
+}
+.breadcrumb-item+.breadcrumb-item::before {
+	color: #ffffff;
+}
+.modal h1 {
+	margin:0;
+}
+dt {
+	font-family: 'Wire One', sans-serif;
+	font-size: 1.75em;
+}
+
+dd {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-size: .8em;
+	font-weight: 100;
+}
+dd strong {
+	font-size: 2em;
+	font-weight: 100;
+}
