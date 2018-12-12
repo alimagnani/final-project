@@ -14,13 +14,17 @@
     <!-- TemplateEndEditable -->
 </head>
   <body>
-	<div class="container">
-    	<h1>Ali Isabella</h1>
+	<div class="header">
+		<div class="container">
+    		<h1>Ali Isabella</h1>
+		</div>
+	</div>
+<div class="container">	
 	<!-- TemplateBeginEditable name="master-content" -->
 <nav>
   <ol class="breadcrumb">
 	<li class="breadcrumb-item active"><a href="../index.html">Home</a></li>
-    <li class="breadcrumb-item active">About</li>
+    <li class="breadcrumb-item active"><a href="../about/index.html">About</a></li>
 	<li class="breadcrumb-item active">Music</li>
 	<li class="breadcrumb-item active">Tour</li>
 	<li class="breadcrumb-item active">Gallery</li>
@@ -30,9 +34,12 @@
 </nav>
 	<p>[Placeholder content.]</p>
 	<!-- TemplateEndEditable -->
-	<div class="row">
+</div>
+<div class="footer">
+	<div class="container">
+		<div class="row">
 		<div class="col-12 col-sm-6">
-		Made with [love] and [coffee] by Ali Magnani
+		Made with love by Ali Magnani
 		</div>
 		<div class="col-12 col-sm-6">
 		Connect with me:
@@ -41,8 +48,11 @@
 		<a href="https://www.youtube.com/channel/UCAYKRUJBkR652uP8VJ4ILPw" target="_blank">YouTube</a>
 		<a href="https://twitter.com/imaliisabella" target="_blank">Twitter</a>
 		</div>
+		</div>
 	</div>
-	</div>
+</div>
+
+	
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
