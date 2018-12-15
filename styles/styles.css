@@ -66,6 +66,15 @@ a:hover {
 .breadcrumb-item+.breadcrumb-item::before {
 	color: #ffffff;
 }
-.modal h1 {
-	margin:0;
+.fa-facebook-square:hover {
+	color: #1288E7;
+}
+.fa-instagram:hover {
+	color: #1288E7;
+}
+.fa-youtube-square:hover {
+	color: #1288E7;
+}
+.fa-twitter-square:hover {
+	color: #1288E7
 }
